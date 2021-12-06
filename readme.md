@@ -1,8 +1,6 @@
-## Dxrkz Website
+# Dxrkz Website
 
-# https://dxrkz.tk
-
-A website that I use.
+## https://dxrkz.tk
 
 Hosted by Netifly (Sub-Domain)
 
